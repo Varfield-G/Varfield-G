@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **what we could work together**
 
-- ⚡ Fun fact: **Started programming since I was 5 years old**
+- ⚡ Fun fact: **Started programming when I was 5 years old**
 
 <!-- <h3 align="left">Connect with me:</h3> 
  [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/USERNAME)
